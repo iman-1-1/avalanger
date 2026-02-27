@@ -9,5 +9,5 @@ public class Avalange {
     private String country;
     private String state;
     private String description;
-    
+
 }
